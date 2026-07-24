@@ -1,12 +1,12 @@
-## Nikola Řežábková — QA Engineer Portfolio
+# Nikola Řežábková — QA Engineer Portfolio
 
-# Welcome to my QA portfolio!
+Welcome to my QA portfolio!
 
 I am a technical professional transitioning into a **QA Engineer role**, bringing experience from **software development, technical support, incident management, and database work**.
 
 Throughout my career, I have worked closely with developers, customers, and business requirements. I have experience with troubleshooting complex issues, analyzing defects, working with databases, and improving software quality.
 
-Currently, I am expanding my QA skills with a focus on **manual testing, test automation, and quality assurance processes**. 🚀
+Currently, I am expanding my QA skills with a focus on **manual testing, test automation, and quality assurance processes**.
 
 ---
 
@@ -123,6 +123,13 @@ A manual testing project demonstrating the complete QA workflow.
 
 ---
 
+# Why QA?
+
+My previous roles allowed me to work at the intersection of users, developers, and business requirements. I enjoy investigating problems, understanding why issues happen, and improving software quality.
+
+Moving into QA allows me to combine my technical background, analytical thinking, and experience with real-world software systems.
+
+
 # Career Goal
 
 I am looking for opportunities as a **QA Engineer / Software Tester**, where I can use my technical background, analytical mindset, and experience with software systems to help deliver reliable and high-quality products.
@@ -136,17 +143,7 @@ Czech — Native
 
 English — C1 Advanced  
 
-
----
-
-Why QA?
-
-My previous roles allowed me to work at the intersection of users, developers, and business requirements. I enjoy investigating problems, understanding why issues happen, and improving software quality.
-
-Moving into QA allows me to combine my technical background, analytical thinking, and experience with real-world software systems.
-
 # Contact
 
-LinkedIn: [add your LinkedIn]
-
-GitHub: [add your GitHub]
+LinkedIn: 
+GitHub: 
