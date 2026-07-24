@@ -1,36 +1,12 @@
-# QA Portfolio – Nikola Řežábková
-# About Me
+## 👩‍💻 Nikola Čechová — QA Engineer Portfolio
 
-I am a technical professional transitioning into a QA Engineer role, bringing experience from software development, technical support, and incident management.
-
-Throughout my career, I have worked closely with development teams, databases, customer issues, and production environments. This experience helped me develop a strong understanding of software quality, troubleshooting, root cause analysis, and the importance of reliable software delivery.
-
-I am currently expanding my QA skills with a focus on manual testing, test documentation, defect reporting, and test automation.
-
-Professional Background
-Technical Support Team Lead
-
-Blogic | 2024 – 2025
-
-Managed customer-focused technical support and handled escalated incidents
-Worked with Jira and Confluence for issue tracking and documentation
-Analyzed recurring issues and created reports about bugs, incidents, and feature requests
-Coordinated support specialists and ensured efficient issue resolution
-Maintained internal database records and ensured data accuracy
-Graduate Analyst Developer
-
-FNZ | 2022 – 2024
-
-Developed and maintained software solutions according to client requiremena# 👩‍💻 Nikola Čechová — QA Engineer Portfolio
-
-Welcome to my QA portfolio! 👋
+# Welcome to my QA portfolio! 👋
 
 I am a technical professional transitioning into a **QA Engineer role**, bringing experience from **software development, technical support, incident management, and database work**.
 
 Throughout my career, I have worked closely with developers, customers, and business requirements. I have experience with troubleshooting complex issues, analyzing defects, working with databases, and improving software quality.
 
 Currently, I am expanding my QA skills with a focus on **manual testing, test automation, and quality assurance processes**. 🚀
-
 
 ---
 
