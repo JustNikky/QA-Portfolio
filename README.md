@@ -1,5 +1,5 @@
-#QA Portfolio – Nikola Řežábková
-#About Me
+# QA Portfolio – Nikola Řežábková
+# About Me
 
 I am a technical professional transitioning into a QA Engineer role, bringing experience from software development, technical support, and incident management.
 
