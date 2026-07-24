@@ -43,12 +43,12 @@ Currently, I am expanding my QA skills with a focus on **manual testing, test au
 
 # Technical Skills
 
-Databases - SQL, SSMS
-Version Control - Git 
-Issue Tracking - Jira, Azure DevOps 
-Documentation - Confluence 
-Development Tools - Microsoft Visual Studio 
-Application Servers - IIS 
+- Databases - SQL, SSMS
+- Version Control - Git 
+- Issue Tracking - Jira, Azure DevOps 
+- Documentation - Confluence 
+- Development Tools - Microsoft Visual Studio 
+- Application Servers - IIS 
 
 
 ---
