@@ -48,7 +48,7 @@ Currently, I am expanding my QA skills with a focus on **manual testing, test au
 - Issue Tracking - Jira, Azure DevOps 
 - Documentation - Confluence 
 - Development Tools - Microsoft Visual Studio 
-- Application Servers - IIS 
+- Web Servers - IIS 
 
 
 ---
