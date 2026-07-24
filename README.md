@@ -1,4 +1,4 @@
-## 👩‍💻 Nikola Řežábková — QA Engineer Portfolio
+## Nikola Řežábková — QA Engineer Portfolio
 
 # Welcome to my QA portfolio!
 
