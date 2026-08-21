@@ -12,7 +12,7 @@
 | **Preconditions** | User is on the SauceDemo login page |
 | **Test data** | **Username:** `invalidusername`<br>**Password:** `secret_sauce` |
 | **Steps** | 1. Enter `invalidusername` into the Username field.<br><br>2. Enter `secret_sauce` into the Password field.<br><br>3. Click **Login**. |
-| **Expected result** | Login is unsuccessful and appropriate error message is displayed (Epic sadface: Username and password do not match any user in this service). User remains on the login page. |
-| **Actual result** | Login was unsuccessful and appropriate error message was displayed. User remained on the login page. |
+| **Expected result** | Login is unsuccessful. The error message "Epic sadface: Username and password do not match any user in this service" is displayed. User remains on the login page. |
+| **Actual result** | Login was unsuccessful. The error message "Epic sadface: Username and password do not match any user in this service" was displayed. User remained on the login page. |
 | **Status** | **PASS** |
 | **Defect** | N/A |
