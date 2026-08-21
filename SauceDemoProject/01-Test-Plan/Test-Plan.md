@@ -90,17 +90,13 @@ The following test data will be used during testing.
 | Last Name | User |
 | Postal Code | 12345 |
 
-### 6.3 Invalid Input Data
+### 6.3 Login Validation Requirements
 
-The following data will be used to verify input validation:
-
-- Invalid username
-- Invalid password
-- Empty username
-- Empty password
-- Empty checkout fields
-- Invalid postal code
-
+- Username is required
+- Password is required
+- Invalid credentials must prevent login
+- When both required fields are empty, the user should be informed that both fields are required
+  
 ---
 
 ## 7. Entry Criteria
