@@ -11,7 +11,7 @@
 | **Priority** | High |
 | **Preconditions** | User is on the SauceDemo login page |
 | **Test data** | **Username:** `invalidusername`<br>**Password:** `secret_sauce` |
-| **Steps** | 1. Enter `invalid username` into the Username field.<br><br>2. Enter `secret_sauce` into the Password field.<br><br>3. Click **Login**. |
+| **Steps** | 1. Enter `invalidusername` into the Username field.<br><br>2. Enter `secret_sauce` into the Password field.<br><br>3. Click **Login**. |
 | **Expected result** | Login is unsuccessful and appropriate error message is displayed. User remains on the login page. |
 | **Actual result** | Login was unsuccessful and appropriate error message was displayed. User remained on the login page. |
 | **Status** | **PASS** |
