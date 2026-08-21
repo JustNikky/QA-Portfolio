@@ -1,11 +1,11 @@
-## BUG-LOGIN-001 - Missing password validation when both fields are empty
+## BUG-LOGIN-001 - Missing password validation message when both fields are empty
 
 ---
 
 | **Field** | **Value** |
 |---|---|
 | **Bug ID** | BUG-LOGIN-001 |
-| **Title** | Missing password validation when both fields are empty |
+| **Title** | Missing password validation message when both fields are empty |
 | **Related test case** | TC-LOGIN-006 |
 | **Module** | Login |
 | **Severity** | Medium |
