@@ -16,4 +16,3 @@
 | **Actual result** | Login was unsuccessful. The error message "Epic sadface: Username and password do not match any user in this service" was displayed. User remained on the login page. |
 | **Status** | **PASS** |
 | **Defect** | N/A |
-
