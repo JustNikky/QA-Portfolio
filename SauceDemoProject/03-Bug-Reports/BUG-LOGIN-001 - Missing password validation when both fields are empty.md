@@ -17,3 +17,4 @@
 | **Actual result** | Only the error message "Epic sadface: Username is required" is displayed. No validation message for the empty Password field is displayed. |
 | **Status** | Open |
 | **Defect type** | Functional / Validation |
+| **Description** | When both the Username and Password fields are left empty, the application only displays a validation message for the Username field. The Password field is not identified as required, which may make it unclear to the user that both fields must be completed. |
