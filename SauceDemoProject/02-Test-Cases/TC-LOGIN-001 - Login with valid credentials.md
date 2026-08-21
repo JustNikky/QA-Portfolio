@@ -1,4 +1,4 @@
-## TC-LOGIN-001 — Login with valid credentials
+## TC-LOGIN-001 - Login with valid credentials
 
 ---
 
