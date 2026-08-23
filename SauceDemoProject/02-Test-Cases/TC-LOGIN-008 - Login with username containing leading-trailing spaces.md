@@ -4,7 +4,7 @@
 | **Field** | **Value** |
 |---|---|
 | **Test case ID** | TC-LOGIN-008 |
-| **Test type** | Functional / Negative |
+| **Test type** | Validation / Negative |
 | **Title** | Login with username containing leading/trailing spaces |
 | **Module** | Login |
 | **Priority** | High |
