@@ -145,5 +145,5 @@ English — C1 Advanced
 
 # Contact
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/nikola-%C5%99e%C5%BE%C3%A1bkov%C3%A1-142a4a148/ 
 GitHub: 
