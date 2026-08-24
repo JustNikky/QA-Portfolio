@@ -12,6 +12,6 @@
 | **Test data** | `Sauce Labs Backpack` |
 | **Steps** | 1. Locate product `Sauce Labs Backpack`.  <br><br>2. Click **Add to cart**. <br><br>3. Verify that the cart indicator displays `1`.  |
 | **Expected result** | The product is added to the cart. The cart indicator displays `1`. |
-| **Actual result** | The cart indicator displayed `1` before the product was added to the cart. |
+| **Actual result** | The product was successfully added to the cart. However, the cart indicator displayed `1` before the product was added and increased to `2` after adding the product. |
 | **Status** | **FAIL** |
 | **Defect** | BUG-PRODUCT-001 |
