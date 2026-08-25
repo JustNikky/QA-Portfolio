@@ -5,7 +5,7 @@
 |---|---|
 | **Test case ID** | TC-CART-001 |
 | **Test type** | Functional |
-| **Title** | Cart page open |
+| **Title** | Cart page opens |
 | **Module** | Cart |
 | **Priority** | High |
 | **Preconditions** | User is on the SauceDemo Products page after successful login. |
