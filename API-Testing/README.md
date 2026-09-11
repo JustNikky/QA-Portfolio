@@ -1,4 +1,4 @@
-# API Testing – JSONPlaceholder
+# API Testing - JSONPlaceholder
 
 ## Overview
 
