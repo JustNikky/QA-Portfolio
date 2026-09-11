@@ -97,6 +97,10 @@ In a real-world application, persistence could be verified with a subsequent GET
 | PUT user | PASS |
 | DELETE user | PASS |
 
+## Conclusion
+
+This project demonstrates practical experience with manual REST API testing in Postman, including CRUD operations, positive and negative test scenarios, JSON validation, HTTP status code verification, and analysis of actual API behavior against expected results.
+
 ## Project Structure
 
 ```text
