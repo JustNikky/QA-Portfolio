@@ -95,6 +95,32 @@ Currently, I am expanding my QA skills with a focus on **manual testing, test au
 
 # Portfolio Projects
 
+## API Testing Project
+
+API testing project created using Postman and JSONPlaceholder API.
+
+### Testing Covered
+
+- GET requests
+- POST requests
+- PUT requests
+- DELETE requests
+- Response status code validation
+- Response body validation
+- API test assertions
+- Collection organization
+
+### Tools Used
+
+- Postman
+- GitHub
+- REST API
+- JSON
+
+### Project repository:
+
+[API-Testing](./API-Testing)
+
 ## SauceDemo QA Project
 
 A manual testing project demonstrating the complete QA workflow.
